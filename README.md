@@ -1,4 +1,4 @@
 ## my_first_2d_game
 
-![Captura de Tela (522) - Editado](https://user-images.githubusercontent.com/99682808/218143832-568bce32-3950-45bf-8644-ecadc14bd9b5.png)
+![Captura de Tela (522) - Editado (1)](https://user-images.githubusercontent.com/99682808/218144062-c32e64b1-9f45-4a09-b10f-be166ca4d3d0.png)
 
